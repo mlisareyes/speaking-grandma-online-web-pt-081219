@@ -5,6 +5,7 @@ def speak_to_grandma(phrase)
 #return "I love you too pumpkin" in upcase
   if phrase == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
+  end
 end
 
 # Whatever you say to grandma, she should respond with
