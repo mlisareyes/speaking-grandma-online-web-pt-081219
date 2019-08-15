@@ -1,7 +1,9 @@
 # Write a speak_to_grandma method.
 
 def speak_to_grandma(phrase)
-  
+#if i say "i love you grandma" in upcase
+#return "I love you too pumpkin" in upcase
+
 end
 
 # Whatever you say to grandma, she should respond with
